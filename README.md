@@ -10,17 +10,8 @@
 # Leveraging Mirror Geometry for Monocular 3D Reconstruction of Human Pose 
 A project for avatar gamification in  Rehabilitation Therapy
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
 </header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+This project reconstructs the 2D Body Pose of People 
 
 ## Step 1: Enable GitHub Pages
 
