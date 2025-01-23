@@ -53,6 +53,7 @@ A novel method to estimate occluded points leveraging mirror geometry is employe
 # Main References
 R. Hartley and A. Zisserman, Multiple View Geometry in Computer Vision. Cambridge University
 Press, 2003.
+<br/>
 C. Liu, Y. Li, K. Ma, D. Zhang, P. Bao, and Y. Mu, “Learning 3D human pose estimation from
 catadioptric videos,” in Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, 2021.
 </footer>
