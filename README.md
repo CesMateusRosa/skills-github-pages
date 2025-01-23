@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Leveraging Mirror Geometry for Monocular 3D
-Reconstruction of Human Body Pose in Rehabilitation
-Therapy
+# Leveraging Mirror Geometry for Monocular 3D Reconstruction of Human Pose 
+A project for avatar gamification in  Rehabilitation Therapy
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
