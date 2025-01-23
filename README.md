@@ -39,7 +39,13 @@ This pipeline can be integrated with any 2D pose estimator, by providing the ske
 # Novel Keypoint Occlusion Method 
 A novel method to estimate occluded points leveraging mirror geometry is employed. This method uses epipolar geometry constraints to establish reasonable guesses for the missing point. 
 
+<br>
+<br>
+<p align="center">
+  <img src="Occlusion Estimation.png" alt="Example Animation" width="40%">
+</p>
 
+<br>
 
 # Main References
 R. Hartley and A. Zisserman, Multiple View Geometry in Computer Vision. Cambridge University
