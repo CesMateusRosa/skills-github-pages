@@ -15,6 +15,7 @@ This project is a 3D human pose estimation system that uses mirror geometry to o
 
 ![](Example.gif)
 
+
 ## Reconstruction Pipeline
 
 This project introduces and compares two methods for mirror-based reconstruction: (1) estimating the mirror plane's normal vector and (2) applying the fundamental matrix approach in a mirrored configuration. Both methods leverage a deep 2D pose estimator, which provides 2D keypoint estimates that enable the inference of 3D mirror geometry. 
