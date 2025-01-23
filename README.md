@@ -11,7 +11,8 @@
 A project for avatar gamification in  Rehabilitation Therapy
 
 Note: Code is currently under revision to improve usability and add optimizations
-<br/>
+
+---
 </header>
 This project is a 3D human pose estimation system that uses mirror geometry to overcome the inherent depth ambiguity in monocular pose estimation. By simulating a second view through the reflection, the system enables multi-view triangulation, achieving  accurate 3D human skeleton reconstruction.
 <br/>
